@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ConstraintLayoutPractice</string>
     <string name="title1">Title1</string>
-    <string name="title2">Title2</string>
+    <string name="title2">Title1</string>
     <string name="title3">Title3</string>
+    <string name="title4">Title4</string>
 </resources>
